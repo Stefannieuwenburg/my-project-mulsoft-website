@@ -13,7 +13,9 @@ const NavbarContainer = styled.div`
   justify-content: space-between;
 `;
 
-const BrandContainer = styled.div``;
+const BrandContainer = styled.div`
+/*  */
+`;
 
 const AccessibilityContainer = styled.div`
   display: flex;
